@@ -1,4 +1,4 @@
-﻿# TaskSplit Release
+# TaskSplit Release
 
 Windows 11 작업표시줄 고정 앱 패널 **TaskSplit** 공식 릴리스 저장소입니다.
 
@@ -6,13 +6,13 @@ Windows 11 작업표시줄 고정 앱 패널 **TaskSplit** 공식 릴리스 저�
 
 | 버전 | Windows | 설치 파일 |
 |------|---------|-----------|
-| **1.0.0** | Windows 10 19041+ / Windows 11 (x64) | [TaskSplit-Setup-1.0.0.exe](https://github.com/infohelpful/TaskSplit-Release/releases/download/v1.0.0/TaskSplit-Setup-1.0.0.exe) |
+| **1.2.0** | Windows 10 19041+ / Windows 11 (x64) | [TaskSplit-Setup-1.0.0.exe](https://github.com/infohelpful/TaskSplit-Release/releases/download/v1.2.0/TaskSplit-Setup-1.2.0.exe) |
 
 [Releases](https://github.com/infohelpful/TaskSplit-Release/releases) 페이지에서 최신 버전을 받을 수 있습니다.
 
 ## 설치
 
-1. `TaskSplit-Setup-1.0.0.exe` 다운로드
+1. `TaskSplit-Setup-1.2.0.exe` 다운로드
 2. 설치 마법사 실행
 3. 설치 후 시스템 트레이에 TaskSplit 아이콘이 표시됩니다
 4. 트레이 아이콘 **우클릭 → 설정**으로 옵션 변경
